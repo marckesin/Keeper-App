@@ -5,7 +5,10 @@
   "keywords": [
     "react",
     "material-ui",
-    "note"
+    "node",
+    "jsx",
+    "css",
+    "html"
   ],
   "main": "src/index.js",
   "dependencies": {
