@@ -25,7 +25,7 @@ function App() {
     <main className="container">
       <Header />
       <CreateArea onAdd={addNote} />
-      <section className="notes-container">
+      <section className="notes-grid">
         {notes.map((noteItem, index) => {
           return (
             <Note
